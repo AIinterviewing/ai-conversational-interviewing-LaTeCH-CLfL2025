@@ -12,7 +12,7 @@
 This document contains the necessary materials and instructions to replicate the findings presented in our paper. We provide comprehensive information on the data sources, code, and analytical procedures used in our study. The replication package includes raw data files, data cleaning scripts, and analysis code. We encourage users to contact us with any questions or issues encountered during the replication process.
 
 ## Data Sources
-
+ 
 We conducted two different types of interviews: human-human and AI-human. The raw responses from our participants and interviewers can be found in the following folders:
 
 * **AI-Human Interviews**: All responses from the AI as interviewer
