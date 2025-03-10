@@ -104,7 +104,7 @@ The provided scripts produce the plots presented in the paper. These can be recr
 If you have any questions, find an error, or encounter a missing file, please do not hesitate to contact us.
 
 ## Citation
-
+Link to [Pre-Print of the Study](https://arxiv.org/abs/2410.01824)
 ```
 @article{wuttke2024ai,
   author    = {Wuttke, Alexander and Aßenmacher, Matthias and Klamm, Christopher and Lang, Max M. and Würschinger, Quirin and Kreuter, Frauke},
